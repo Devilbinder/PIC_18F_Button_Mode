@@ -1,7 +1,7 @@
 # PIC Running LEDs
 This code Demonstrates how to do a mode swap LED with the XC8 compiler with MPLAB X and a PIC18F4520.
 
-<a href="https://youtu.be/OBNpr4BSHA8">PIC Programming Tutorial #3 - Blinky and Running LEDs</a>
+<a href="https://youtu.be/LYPaOXhvXWk">PIC Programming Tutorial #4 - Buttons as Inputs</a>
 
 <a href="https://amzn.to/2oTHRqm">PIC18f4520</a>
 
