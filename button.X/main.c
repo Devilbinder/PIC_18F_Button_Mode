@@ -1,5 +1,5 @@
 #include <xc.h>
-#include <p18f4520.h>
+#include <pic18f4520.h>
 #include "conbits.h"
 
 char run =1;
